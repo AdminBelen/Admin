@@ -8,7 +8,7 @@ public class adminController {
 
     @RequestMapping("/")
     public String view() {
-        return "500";
+        return "404";
     }
 
 }
